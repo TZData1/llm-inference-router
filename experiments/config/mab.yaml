@@ -1,0 +1,22 @@
+# Global MAB settings (if any)
+
+# Algorithm-specific settings
+epsilon_greedy:
+  initial_epsilon: 0.1
+  decay_factor: 0.995
+  min_epsilon: 0.01
+contextual_epsilon_greedy:
+  initial_epsilon: 0.1
+  decay_factor: 0.995
+  min_epsilon: 0.01
+linear_epsilon_greedy:
+  initial_epsilon: 0.5  # Start with moderate exploration for contextual
+  decay_factor: 0.995
+  min_epsilon: 0.01
+  lambda_: 0.1
+linucb:
+  alpha: 0.1
+  regularization: 0.1
+thompson_sampling:
+  sigma: 0.1  # Reduced for better exploitation with fixed variance calculation
+  prior_variance: 2.0

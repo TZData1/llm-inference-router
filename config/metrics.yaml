@@ -1,0 +1,65 @@
+mmlu:
+  accuracy:
+    min: 0.0
+    max: 1.0
+  energy_consumption:
+    min: 1.8323552103042602
+    max: 92.18818430455526
+  latency:
+    min: 0.02057957649230957
+    max: 0.33101868629455566
+  energy_per_token:
+    min: 0.00589002367859144
+    max: 0.7173971270892932
+hellaswag:
+  accuracy:
+    min: 0.0
+    max: 1.0
+  energy_consumption:
+    min: 1.7641714675426483
+    max: 59.183056910634036
+  latency:
+    min: 0.019887208938598633
+    max: 0.23722386360168457
+  energy_per_token:
+    min: 0.006735516852890419
+    max: 0.41918169083913165
+winogrande:
+  accuracy:
+    min: 0.0
+    max: 1.0
+  energy_consumption:
+    min: 1.8532356305122377
+    max: 29.163963955163958
+  latency:
+    min: 0.01981806755065918
+    max: 0.18268799781799316
+  energy_per_token:
+    min: 0.03782113531657628
+    max: 0.5636844388097525
+gsm8k:
+  accuracy:
+    min: 0.0
+    max: 1.0
+  energy_consumption:
+    min: 1.3012757723331452
+    max: 6053.560900666317
+  latency:
+    min: 0.013992547988891602
+    max: 37.97256660461426
+  energy_per_token:
+    min: 0.009110660492078117
+    max: 19.037252740731375
+cnn_dailymail:
+  accuracy:
+    min: 0.0
+    max: 1.0
+  energy_consumption:
+    min: 1.2775521097183227
+    max: 2804.805192646325
+  latency:
+    min: 0.014380216598510742
+    max: 14.296864748001099
+  energy_per_token:
+    min: 0.0011508638890426154
+    max: 5.481949859030518

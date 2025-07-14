@@ -1,0 +1,4001 @@
+dataset,processed_input,reference,max_new_tokens,stop_sequence,extraction_method,evaluation_metric,id
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The computer of Victoria ran faster than that of Carrie because _ downloaded less files.
+Options:
+A. Victoria
+B. Carrie
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_1
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Judy bought new brushes to paint the etched glasses crack but it didn't fit. The _ was too narrow.
+Options:
+A. brush
+B. crack
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_2
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Fiction books were interesting and easy to read for  Logan but not Brett because _ enjoyed real tales.
+Options:
+A. Logan
+B. Brett
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_3
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Smoke still rose from the house but had subsided at the barn.  The fire was doused at the _ .
+Options:
+A. house
+B. barn
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_4
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The barista loved to make all types of coffee including iced and hot. The _ coffee was popular in the cooler weathers.
+Options:
+A. iced
+B. hot
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_5
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The dog that Laura found was dirtier than Amy's dog, since _ dog lived in the street.
+Options:
+A. Laura
+B. Amy
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_6
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Lawrence liked watching foreign movies with subtitles unlike Jason because _ criticized the original language of the film.
+Options:
+A. Lawrence
+B. Jason
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_7
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Justin brought a a saw and hammer to prepare making a cupboard for Benjamin because _ is his employer.
+Options:
+A. Justin
+B. Benjamin
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_8
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Neil looked all over the neighborhood for their missing dog until Samuel called and _ got their dog back.
+Options:
+A. Neil
+B. Samuel
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_9
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Only the bag got melted and not the wood when they were inside the flame. The _ is soft.
+Options:
+A. wood
+B. bag
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_10
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+In the hotel laundry room, Felicia burned Mary's shirt while ironing it, so the manager gave _ a refund.
+Options:
+A. Felicia
+B. Mary
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_11
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The fireman used several rags to polish the nozzles on the fire hose; when he was done the _ were dirty.
+Options:
+A. nozzles
+B. rags
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_12
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Laura used too much super glue on Erins hands, so _ needed to get to the doctor to separate their hands.
+Options:
+A. Laura
+B. Erin
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_13
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Using a needle to sew together both the leather and silk was difficult.  The _ was hard get through.
+Options:
+A. leather
+B. silk
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_14
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+James walked into a ditch while trying to catch the ball thrown at him. The _ is farther.
+Options:
+A. ditch
+B. ball
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_15
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Christopher taught Hunter to play go fish so that _ had someone to play with.
+Options:
+A. Christopher
+B. Hunter
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_16
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+I wanted to use pomade on my hair instead of hairspray but it was old so the _ was unusable.
+Options:
+A. pomade
+B. hairspray
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_17
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The living room was cleaner than the kitchen, because we spend more time in the the _ .
+Options:
+A. living room
+B. kitchen
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_18
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Jennifer was more of a morning person than Natalie because _ always went to bed early and got a good night's rest.
+Options:
+A. Jennifer
+B. Natalie
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_19
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The actors practiced the scenes in the parking lot more than the scenes in the morgue, because the _ scenes are full of silence.
+Options:
+A. parking lot
+B. morgue
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_20
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Samantha had to use the potty while Felicia used the restroom because _ is a grownup.
+Options:
+A. Samantha
+B. Felicia
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_21
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Maria wanted to play poker with Jennifer because _ was a better player and she won a lot of money.
+Options:
+A. Maria
+B. Jennifer
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_22
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Samantha believed in life after death while Christine did not, so _ never tried to talk to spirits.
+Options:
+A. Samantha
+B. Christine
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_23
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Hugh scrubbed the mold in his apartment with a cleaner but had to call a pro because the _ was too weak.
+Options:
+A. mold
+B. cleaner
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_24
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The toddler kicked the soft furniture and hard toy, but only the _ caused pain.
+Options:
+A. furniture
+B. toy
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_25
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Buying a swimming pool was great for Adam but not for Christopher because _ had a large back yard.
+Options:
+A. Adam
+B. Christopher
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_26
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Laura was thrilled to get their lip pierced but Rachel was pretty scared. _ had theirs done and cried.
+Options:
+A. Laura
+B. Rachel
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_27
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+He had enough time between classes to go to a cafe or to the library. He went to the _ because his paper could wait.
+Options:
+A. cafe
+B. library
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_28
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Hunter bought a vehicle to commute in but not Dennis because _ had a driving distance to work.
+Options:
+A. Hunter
+B. Dennis
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_29
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Jeffrey asked Hunter when was the date set for the wedding because _ was getting married.
+Options:
+A. Jeffrey
+B. Hunter
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_30
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Justin bought a new RV but Lawrence liked his old one, so _ decided to buy it.
+Options:
+A. Justin
+B. Lawrence
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_31
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Rachel touches the cool looking bulletproof vest of Kayla due to _ being on a ride along.
+Options:
+A. Rachel
+B. Kayla
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_32
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Randy only ever added a little bit of hot sauce to his food, especially compared to Adam, as _ was much more sensitive to spice.
+Options:
+A. Randy
+B. Adam
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_33
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The waist of Joel measured more inches than that of Kevin because _ ate much less.
+Options:
+A. Joel
+B. Kevin
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_34
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Kenneth had worse skin than Craig so _ had to use more of the moisturizer.
+Options:
+A. Kenneth
+B. Craig
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_35
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Angela was a homebody while Amy loved to travel the world whenever they could. _ took a vacation to the beach over the summer.
+Options:
+A. Angela
+B. Amy
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_36
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The puncture healed quicker than the cut because the _ was a more superficial wound.
+Options:
+A. cut
+B. puncture
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_37
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+More people attended the funeral of Joel than of Derrick because _ was a mean person.
+Options:
+A. Joel
+B. Derrick
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_38
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Craig gifted Eric a new picnic table, because _ borrowed some money a while ago.
+Options:
+A. Craig
+B. Eric
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_39
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The dog loved Kevin but hated Derrick, so _ started bringing the dog treats to change its mind.
+Options:
+A. Kevin
+B. Derrick
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_40
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+So _ avoids eating carrots for their eye health because Emily needs good eyesight while Monica doesn't.
+Options:
+A. Emily
+B. Monica
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_41
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Rachel but not Christine was tracked down by police because _ made it to the hideout.
+Options:
+A. Rachel
+B. Christine
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_42
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Amy thought she was the mirror image of Natalie , but _ could not be convinced to see the similarity.
+Options:
+A. Amy
+B. Natalie
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_43
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+As a marine, Emily looks down on civilians like Maria, so _ is a bit saddened.
+Options:
+A. Emily
+B. Maria
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_44
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Mary didn't know what the currency of Mexico was but Lindsey knew _ had never been to Mexico before.
+Options:
+A. Mary
+B. Lindsey
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_45
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The commodities trader decided to buy wool and sell cotton because the _ was priced low.
+Options:
+A. wool
+B. cotton
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_46
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Paolo tries to remember what he read in the textbook, but all he can think of is the email from his friend because he read the _ ages ago.
+Options:
+A. email
+B. textbook
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_47
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+William liked to be outside more than Kyle so _ spent time arguing for getting a pool.
+Options:
+A. William
+B. Kyle
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_48
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Two friends wanted a tan look but Joel was impatient while Robert wasn't. _ used bronzer to get a tan look.
+Options:
+A. Joel
+B. Robert
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_49
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Neil told Lawrence that he was training to be a race car driver.  _ was excited.
+Options:
+A. Neil
+B. Lawrence
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_50
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The market was going out of business so they sold their products but not the lots as the _ were useless.
+Options:
+A. products
+B. lots
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_51
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+John could not hear his alarm clock when he was sleeping with a headphone on his head because the _ is closer.
+Options:
+A. headphone
+B. clock
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_52
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Erin ordered a martini when Tanya only ordered a tonic water with lemon, because _ was pregnant.
+Options:
+A. Erin
+B. Tanya
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_53
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+During the rescue mission, Maria pulled Rebecca away from the minefield since _ was a civilian.
+Options:
+A. Maria
+B. Rebecca
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_54
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The wooden doors at my friends work are worse than the wooden desks at my work, because the _ material is stronger.
+Options:
+A. doors
+B. desks
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_55
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+I did not see the sign on the billboard on the highway because the _ was too tiny.
+Options:
+A. sign
+B. billboard
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_56
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+His addiction was getting bad so they handed him over to therapy and stopped taking medicine since the _ was cheaper.
+Options:
+A. therapy
+B. medicine
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_57
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Monica gives Jessica a book about posture, because _ has been trying to get better at ballet dancing.
+Options:
+A. Monica
+B. Jessica
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_58
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The architect tried to build the room inside the house but the _ was too large.
+Options:
+A. house
+B. room
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_59
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Paint was applied to the chairs but not the tables, since the _ were old.
+Options:
+A. chairs
+B. tables
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_60
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+James always feel weak whenever he walked the length of his street so he decided walking just the length of the lawn. The _ is long.
+Options:
+A. street
+B. lawn
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_61
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Monica suspected that Rebecca had become an alcoholic, but _ predicted an intervention to address the problem.
+Options:
+A. Monica
+B. Rebecca
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_62
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Although Amy worked harder and longer than Rebecca, _ was a more wealthy person overall.
+Options:
+A. Amy
+B. Rebecca
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_63
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Kayla was the subject of a secret crush from Rebecca. _ was aware they were a secret admirer.
+Options:
+A. Kayla
+B. Rebecca
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_64
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Aaron showed Donald how to use google play on an android because _ owned an apple phone.
+Options:
+A. Aaron
+B. Donald
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_65
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Joseph asked Robert to clean the floor with a mop nearby because _ needs to work.
+Options:
+A. Joseph
+B. Robert
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_66
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Maria told Monica they looked too sick to go to work and asked if they had a fever. _ went to the Doctor.
+Options:
+A. Maria
+B. Monica
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_67
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+After a short time we stopped pouring the tea glass in the pot because the _ was full.
+Options:
+A. glass
+B. pot
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_68
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Joe drank his milk and tried to dunk his cookie in the glass but the _ was too small.
+Options:
+A. cookie
+B. glass
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_69
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The installation process was simpler for the cable over the internet because the man had never installed the _ previously.
+Options:
+A. cable
+B. internet
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_70
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Elena brought the horse to the stables owned by Cynthia, so _ could buy the animal.
+Options:
+A. Elena
+B. Cynthia
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_71
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+While shopping at the mall, Kevin asked Benjamin to help find a red shirt to wear because _ was great at clothing budgeting.
+Options:
+A. Kevin
+B. Benjamin
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_72
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Joel went to Michael 's house and consumed a lot of alcohol, so _ had to ride back home as a passenger.
+Options:
+A. Joel
+B. Michael
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_73
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Katrina turned out to be much more spoiled than Felicia because _ did not have wealthy or generous parents.
+Options:
+A. Katrina
+B. Felicia
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_74
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Nick smelled much worse than Kenneth after the baseball game although _ was wearing deodorant.
+Options:
+A. Nick
+B. Kenneth
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_75
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+If our relationship just started, should I get her a card or gift for Christmas? She might think I'm cheap if I give the _ .
+Options:
+A. card
+B. gift
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_76
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The children were not vaccinated, which was fine with Betty but annoyed Mary. _ knew they didn't make kids autistic.
+Options:
+A. Betty
+B. Mary
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_77
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Jason went zooming down Brett's street way too fast on his motorcycle, causing _ great excitement.
+Options:
+A. Jason
+B. Brett
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_78
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Caroline works in the catering and food wholesale industries, but enjoys food distribution more, so she prefers her work in the _ industry.
+Options:
+A. catering
+B. food wholesale
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_79
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The hair stylist gave Laura hair extensions and not Katrina because _ had very short hair.
+Options:
+A. Laura
+B. Katrina
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_80
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Betty drank chocolate shakes while Elena drank carrot juice, and _ had a very healthy diet.
+Options:
+A. Betty
+B. Elena
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_81
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Joel complained to Ian about the condition of the house. _ preferred a messy space.
+Options:
+A. Joel
+B. Ian
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_82
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The school needed a new auditorium and a new teacher's lounge.  They built the _ first because it benefited the faculty more.
+Options:
+A. auditorium
+B. teacher's lounge
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_83
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Erin loved people and wanted to help them while Katrina loved to help animals. _ volunteered at the local shelter.
+Options:
+A. Erin
+B. Katrina
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_84
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Jeffrey brushed their teeth quite regularly but Brian did not. _ had to go to a dentist often.
+Options:
+A. Jeffrey
+B. Brian
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_85
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Anxiety is a feeling Rebecca gets when she has face Erin who is a probation officer, _ does not  a fear of authority.
+Options:
+A. Rebecca
+B. Erin
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_86
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Jennifer dragged Felicia along to a self help workshop about how to succeed, because _ wanted some company.
+Options:
+A. Jennifer
+B. Felicia
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_87
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+John decided to grow a new breed of plant in his garden but the _ is big.
+Options:
+A. garden
+B. plant
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_88
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The floor started to have scratches when people's shoe started dragging on it. The _ was smooth.
+Options:
+A. floor
+B. shoe
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_89
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The dog was more suspicious of the locker than of the package because the drugs were in the _ .
+Options:
+A. locker
+B. package
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_90
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Angela loved to wear sun glasses but Jessica didn't. _ bought a fancy new pair of shoes.
+Options:
+A. Angela
+B. Jessica
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_91
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+At the store, John signed a warranty contract for the tablet, but did not purchase insurance for the phone, because the _ was likely to be damaged.
+Options:
+A. tablet
+B. phone
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_92
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+In order to grow his plants naturally, he bought fertilizer and water. The _ was lacking with nutrients.
+Options:
+A. fertilizer
+B. water
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_93
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Bill had complicated feelings about getting a car after his motorcycle died because the _ possessed a lot of sentimental value.
+Options:
+A. car
+B. motorcycle
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_94
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Patricia was called back for a second interview but not Victoria, as _ had failed the background check.
+Options:
+A. Patricia
+B. Victoria
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_95
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Rachel but not Christine was tracked down by police because _ did not make it to the hideout.
+Options:
+A. Rachel
+B. Christine
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_96
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Angela was a homebody while Amy loved to travel the world whenever they could. _ took a staycation at home over the summer.
+Options:
+A. Angela
+B. Amy
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_97
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Ian was tired of trying new diets while Steven had luck with one, so _ stuck to their routine.
+Options:
+A. Ian
+B. Steven
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_98
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The sound of the foot was clearly audible from the street because the _ is quiet.
+Options:
+A. street
+B. sound
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_99
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The apartment Brett rented was owned by Jason, so _ sent the rent for the apartment each month.
+Options:
+A. Brett
+B. Jason
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_100
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The sink in the bathroom looked good but the toilet was leaking so James kept the _ .
+Options:
+A. toilet
+B. sink
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_101
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+I hated the project this year compared to the essay last year, because the _ required more work.
+Options:
+A. project
+B. essay
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_102
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+At dinner time, Tanya ate Erin's serving of peas even though _ really likes green vegetables.
+Options:
+A. Tanya
+B. Erin
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_103
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Patricia has a trouble with training her horse and wants Tanya's help, because _ wants her horse to behave.
+Options:
+A. Patricia
+B. Tanya
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_104
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Tanya was an adult while Samantha was young and still had room to grow , so _ gave her her old clothes.
+Options:
+A. Tanya
+B. Samantha
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_105
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Brian asked  Nick to feed their rabbit,because  _ was planning on going on vacation to Disney for a week.
+Options:
+A. Brian
+B. Nick
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_106
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The gerbil came over to Laura but not Monica because _ was holding a carrot stick.
+Options:
+A. Laura
+B. Monica
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_107
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Katrina demanded that Jessica get off of their property, because _ wasn't in the mood for visiting.
+Options:
+A. Katrina
+B. Jessica
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_108
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+She preferred a globe of the world made of PVC instead of plastic, because the _ made it look expensive.
+Options:
+A. plastic
+B. PVC
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_109
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The leg of the pig body stuck out of the grave where it was buried because the _ is large.
+Options:
+A. body
+B. grave
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_110
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+It seemed more likely that Brett would wear a fedora rather than Justin because _ did not often dress stylishly.
+Options:
+A. Brett
+B. Justin
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_111
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+It took a minute longer to melt the chocolate in the microwave than the caramel, because the _ was very soft.
+Options:
+A. chocolate
+B. caramel
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_112
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Jeffrey went to the doctor to treat their ailments but not Robert so _ became sicker.
+Options:
+A. Jeffrey
+B. Robert
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_113
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The cashier was trained that real $100 bills had sharp lines and counterfeit ones might be blurry, so she accepted the _ bill.
+Options:
+A. sharp
+B. blurry
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_114
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The health of Joel was stronger than that of William due to _ being a cigar smoker.
+Options:
+A. Joel
+B. William
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_115
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Maria planned to spring clean this weekend and told Katrina they should help too. _ expected her help.
+Options:
+A. Maria
+B. Katrina
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_116
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Adam decided to shave Denniss beard before the reuinion, but _ thought it was too short.
+Options:
+A. Adam
+B. Dennis
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_117
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Jan planted her herbs in small growing bags, but she worried that the _ would be too shallow for them to put down roots.
+Options:
+A. herbs
+B. bags
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_118
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+I started a program for youth that worked better than the old system, because the _ is new.
+Options:
+A. program
+B. system
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_119
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The stain in the bucket could not be cleaned with the brush because the _ is soft.
+Options:
+A. stain
+B. brush
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_120
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The lady was blushing when she walked passed Amy but not Carrie because _ was intrigued by her.
+Options:
+A. Amy
+B. Carrie
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_121
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+They had to eat a lot to gain the strength they had lost and be able to work, the _ was too much.
+Options:
+A. work
+B. strength
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_122
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Elena enjoyed yoga classes while Amy preferred other forms of exercise; this was because _ was inflexible.
+Options:
+A. Elena
+B. Amy
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_123
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Megan sentenced Jennifer to probation for stealing from the grocery store, _ obeys the laws that are written.
+Options:
+A. Megan
+B. Jennifer
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_124
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Laura never feared anything like Erin because _ didn't have a very strong and very powerful mind.
+Options:
+A. Laura
+B. Erin
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_125
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The skateboard got broken under the weight of the fat boy and his luggage. The _ is light.
+Options:
+A. skateboard
+B. weight
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_126
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+She chose the black car over the green car, because the _ has more brighter color.
+Options:
+A. black car
+B. green car
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_127
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Neil told Lawrence that he was training to be a race car driver.  _ was worried about him.
+Options:
+A. Neil
+B. Lawrence
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_128
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The landlord said she had violated her lease by allowing a dog into the apartment. She said that the dog did not violate the _ at all.
+Options:
+A. apartment
+B. lease
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_129
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The girl used the comb to try and brush her hair but the _ was too soft.
+Options:
+A. hair
+B. comb
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_130
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+James wanted to write a list of what he can do for Christmas and he ended up using all the pages in the notepad. The _ is long.
+Options:
+A. list
+B. page
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_131
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The home that my parents had when I was in school was a lot nicer than my house now because the _ was sophisticated.
+Options:
+A. home
+B. house
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_132
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Rebecca slept in the hammock in the backyard while Tanya gardened because _ was tired.
+Options:
+A. Rebecca
+B. Tanya
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_133
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+When Derrick told Christopher about quitting school to provide for their family, _ started panicking.
+Options:
+A. Derrick
+B. Christopher
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_134
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Mark preferred his drinks in paper cups over styrofoam cups because the _ are strong.
+Options:
+A. styrofoam cups
+B. paper cups
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_135
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Felicia wanted to be pampered by Emily, so _ went to the jewelry store and bought an expensive ring.
+Options:
+A. Felicia
+B. Emily
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_136
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The courage of Ian was a lot stronger than Michael because _ had been through a lot in life.
+Options:
+A. Ian
+B. Michael
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_137
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The man finally decided to become a guardian for the child at the orphanage because the _ was loving.
+Options:
+A. orphanage
+B. guardian
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_138
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Playing basketball came easier for Cynthia than Jennifer but _ had more control of their body movements.
+Options:
+A. Cynthia
+B. Jennifer
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_139
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Happiness was most important to Nick but money was most important to William. _ valued a good life.
+Options:
+A. Nick
+B. William
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_140
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Benjamin thought Android was the superior phone system but Ian thought IOS was better. _ bought a new Note 9 from Verizon.
+Options:
+A. Benjamin
+B. Ian
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_141
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Wanting to impress his boss, the man put the brandy away and served scotch instead because the _ was expensive.
+Options:
+A. Brandy
+B. Scotch
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_142
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+In the accident the vehicle of Nelson received more damage than that of Justin, since _ vehicle was bigger.
+Options:
+A. Nelson
+B. Justin
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_143
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The apartment Brett rented was owned by Jason, so _ received the rent for the apartment each month.
+Options:
+A. Brett
+B. Jason
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_144
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Tanya recently finished filling out a job application but not Megan because _ is currently working.
+Options:
+A. Tanya
+B. Megan
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_145
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Sarah was a much better surgeon than Maria so _ always got the harder cases.
+Options:
+A. Sarah
+B. Maria
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_146
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The library always had more books than computers, most likely because the _ are bigger.
+Options:
+A. books
+B. computers
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_147
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The doctor felt more sympathy for Aaron than Ryan because _ had a curable illness and great insurance.
+Options:
+A. Aaron
+B. Ryan
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_148
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Donald's understanding of math isn't as good as Joseph's, so _ is more likely a professor.
+Options:
+A. Donald
+B. Joseph
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_149
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The computer of Victoria ran slower than that of Carrie because _ downloaded less files.
+Options:
+A. Victoria
+B. Carrie
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_150
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Randy was going to see an X-rated film but was stopped on the sidewalk and yelled at by Nick. The anger showed on _ 's face.
+Options:
+A. Randy
+B. Nick
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_151
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The team won a trophy instead of a plaque as a result of hard times as the _ was cheap to make.
+Options:
+A. trophy
+B. plaque
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_152
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Cynthia had to pee after one large coffee but Betty did not as _ had a very small bladder.
+Options:
+A. Cynthia
+B. Betty
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_153
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+I picked up some leaves to put in the books and dry, but they didn't fit because the _ were too massive.
+Options:
+A. leaves
+B. books
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_154
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Robert was simply not as stoic as Joel , as _ tended to handle things gracefully.
+Options:
+A. Robert
+B. Joel
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_155
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The salesman would only feature nice things in the house like the pool but not the wiring because the _ was fine.
+Options:
+A. pool
+B. wiring
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_156
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The history of the village is more intriguing than the history of the city because the _ is very new.
+Options:
+A. village
+B. city
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_157
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Felicia was given a leather belt from Betty to clean it, because _ knows how to do it.
+Options:
+A. Felicia
+B. Betty
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_158
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Betty made the choice to reduce Samantha's salary after _ started cutting back on efficiency.
+Options:
+A. Betty
+B. Samantha
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_159
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+When it came to taking care of elderly people, Adam was suited for the job more than Brian because _ lived with younger people longer.
+Options:
+A. Adam
+B. Brian
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_160
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+I was told my eyes are failing so I need to get glasses or contacts. I don't think I'll get the contacts since the _ seem less comfortable.
+Options:
+A. glasses
+B. contacts
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_161
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The woman moved the urn in front of the vase on the shelf because the _ was attractive.
+Options:
+A. urn
+B. vase
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_162
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Because Megan wanted to be a welder and Patricia wanted to be a engineer, _ went to trade school instead of university.
+Options:
+A. Megan
+B. Patricia
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_163
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Derrick really liked working in Human Resources and William wanted to work at the same company, and _ subsequently offered a position.
+Options:
+A. Derrick
+B. William
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_164
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Patricia bought a plant for Natalie to put in her garden, so _ sent a thank you card.
+Options:
+A. Patricia
+B. Natalie
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_165
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The cake got burnt under the heat applied to it. It appears the _ is too small.
+Options:
+A. cake
+B. heat
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_166
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Jeffrey asked Hunter when was the date set for the wedding because _ was his best man.
+Options:
+A. Jeffrey
+B. Hunter
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_167
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Erin was sick of the pests like Amy always cutting out their internet, so _ decided to lay low.
+Options:
+A. Erin
+B. Amy
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_168
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Erin read a book to Monica because _ was old enough to be able to read.
+Options:
+A. Erin
+B. Monica
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_169
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Neil used a chainsaw to cut down the tree instead of a regular saw like William, because _ believed in modern equipment.
+Options:
+A. Neil
+B. William
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_170
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Donald was chosen to be a model while Dennis was passed over, because _ was exceptionally tall.
+Options:
+A. Donald
+B. Dennis
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_171
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The musician liked playing at the auditorium more than at the park because he sounded louder at the _ .
+Options:
+A. auditorium
+B. park
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_172
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+John could not buy anything from the store than night and he went to the kiosk to buy some things because the _ is opened.
+Options:
+A. store
+B. kiosk
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_173
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The fisherman wanted to put the rock in the pond but the _ was too small.
+Options:
+A. pond
+B. rock
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_174
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Samantha's main artistic medium was paint, while Patricia preferred to work with clay, since _ was trained as a sculptor.
+Options:
+A. Samantha
+B. Patricia
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_175
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+the region was too crowded for our comfortable stay for all the people sent there , the _ were too small..
+Options:
+A. region
+B. people
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_176
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Nick struggled with unresolved trauma that Ian couldn't understand, since _ had frequently experienced childhood abuse.
+Options:
+A. Nick
+B. Ian
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_177
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The girl put her money in the bag instead of her pocket although the bully would look in the _ .
+Options:
+A. pocket
+B. bag
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_178
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+It was easy for Amy but not Rachel to create a meal because _ had taken woodshop in school.
+Options:
+A. Amy
+B. Rachel
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_179
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Brian always tried to find ways to be productive at work unlike Kenneth, because _ was a hard worker.
+Options:
+A. Brian
+B. Kenneth
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_180
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Jill was on a budget so she only bought a new dress for the ceremony and wore an old hat. She figured the _ would be more noticeable.
+Options:
+A. dress
+B. hat
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_181
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+At Jan's home, she dusted the dresser more frequently than the fan, because the _ was more difficult to reach.
+Options:
+A. fan
+B. dresser
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_182
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Neil cut trees down into lumber every year unlike Logan because _ lives in the city.
+Options:
+A. Neil
+B. Logan
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_183
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+He had enough time between classes to go to a cafe or to the library. He went to the _ because his paper was due soon.
+Options:
+A. cafe
+B. library
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_184
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Laura brought extensions to Monica at the salon, so that _ could treat their dreads professionally.
+Options:
+A. Laura
+B. Monica
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_185
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The president had their speech at the auditorium rather than the park because the _ was smaller.
+Options:
+A. auditorium
+B. park
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_186
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Angela thought that Elena talked too slowly, and _ had a hard time being understood when they spoke.
+Options:
+A. Angela
+B. Elena
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_187
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Logan reads a lot, while Donald almost never picks up a book because _ is a student.
+Options:
+A. Logan
+B. Donald
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_188
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+John cannot touch the cup as it was just brought out of the refrigerator. He wanted some air to blow around it. The _ is very warm.
+Options:
+A. cup
+B. air
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_189
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Jay could comfort sad people better instead of happy people because the _ people weren't realistic.
+Options:
+A. sad
+B. happy
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_190
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Laura put fruit in their pie for Lindsey to eat, and _ ate half the pie after that one was done baking.
+Options:
+A. Laura
+B. Lindsey
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_191
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The patient took calcium to fix his broken bone but the _ was too strong.
+Options:
+A. bone
+B. calcium
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_192
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Lindsey was considered more masculine than Amy because every year _ went into the woods to French kiss deer.
+Options:
+A. Lindsey
+B. Amy
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_193
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The wound responded quickly to the rubbing alcohol, but slowly to the ointment because the _ is more efficient.
+Options:
+A. rubbing alcohol
+B. ointment
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_194
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Timmy bought a transporter for his cat so he could take him on the plane but the _ was too small.
+Options:
+A. transporter
+B. plane
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_195
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Christine had really good grammar but Cynthia didn't have good grammar because _ studied math in college.
+Options:
+A. Christine
+B. Cynthia
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_196
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Ryan had to use a calculator on the test but Michael didn't because _ was very bad at math.
+Options:
+A. Ryan
+B. Michael
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_197
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Derrick greeted Craig at the event but he did not respond to him because _ is arrogant.
+Options:
+A. Derrick
+B. Craig
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_198
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The TV that Samantha bought costs more than that of Carrie, because _ was rich.
+Options:
+A. Samantha
+B. Carrie
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_199
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Nick did not like sauces made from tomato, only creamy sauces. Ryan knew this so he only made white sauce when _ came over.
+Options:
+A. Nick
+B. Ryan
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_200
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Justin went with Donald to the game because _ wanted to be the designated driver.
+Options:
+A. Justin
+B. Donald
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_201
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The refrigerator was acting up again, so we called a technician to repair the part.  The _ was fine when he showed up.
+Options:
+A. refrigerator
+B. part
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_202
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The maid took away a cozy blanket from Lawrence but not Nick because _ was very cold.
+Options:
+A. Lawrence
+B. Nick
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_203
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Brian's plants are showing a lot more growth than Logan's, because _ used better fertilizer.
+Options:
+A. Brian
+B. Logan
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_204
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Al got solar panels and a small generator installed at his house for electricity as the _ would be his main power supply.
+Options:
+A. panels
+B. generator
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_205
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Maria mimicked everything that Christine did at work because _ was like a fan to her.
+Options:
+A. Maria
+B. Christine
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_206
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Craig had never learned handwriting in school but Michael had learned beautiful script so, _ always typed all their correspondence.
+Options:
+A. Craig
+B. Michael
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_207
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+She used vinegar to wipe down the cabinets hourly and a wood cleaner monthly.  The _ was overused.
+Options:
+A. vinegar
+B. cleaner
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_208
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+James could not lift the bottle of water up to the table top because the _ is tall.
+Options:
+A. table
+B. bottle
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_209
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Throughout the practice Rachel pushed the limits of Megan to get ready for the game because _ was the athlete.
+Options:
+A. Rachel
+B. Megan
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_210
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Victoria was eager to make the big sale to Sarah , as _ had the money that day.
+Options:
+A. Victoria
+B. Sarah
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_211
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Felicia liked wearing glasses more than braces because she could take the _ off after two years.
+Options:
+A. glasses
+B. braces
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_212
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Brian taught Michael how to feed a rabbit greens because _ had rabbits as a kid.
+Options:
+A. Brian
+B. Michael
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_213
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Tanya loved pepperoni on their pizza and Katrina loved sausage, so when it had just pepperoni _ was not very happy.
+Options:
+A. Tanya
+B. Katrina
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_214
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+It seemed more likely that Brett would wear a fedora rather than Justin because _ was known to dress stylishly.
+Options:
+A. Brett
+B. Justin
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_215
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Victoria decided to adopt a Yorkie, but Elena wouldn't even consider it, because _ loved small dogs.
+Options:
+A. Victoria
+B. Elena
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_216
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Kayla was very civil when dealing with Emily so that _ would be accepted by her.
+Options:
+A. Kayla
+B. Emily
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_217
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Elena liked lizards more than Rachel did, so _ was appalled to receive a pet gecko for her birthday.
+Options:
+A. Elena
+B. Rachel
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_218
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Kyle wanted to write to Aaron every day, because _ enjoyed receiving letters from friends.
+Options:
+A. Kyle
+B. Aaron
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_219
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Craig was a very selfish individual but Kenneth was very generous. _ had a lot of good friends.
+Options:
+A. Craig
+B. Kenneth
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_220
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+When gambling in Las Vegas, Christine usually bets less playing poker than Elena because _ is more cautious.
+Options:
+A. Christine
+B. Elena
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_221
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Erin was eating more than Betty was eating for dinner because _ had skipped lunch.
+Options:
+A. Erin
+B. Betty
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_222
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The class was going on a bus on a field trip to a local museum. The _ had to close at 4.
+Options:
+A. bus
+B. museum
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_223
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Mark wanted to lose some weight by starting a diet and workout routine.  He focused mainly on the _ because he was lazy.
+Options:
+A. workout routine
+B. diet
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_224
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Carrie kept written records of their expenses but not Laura because _ had a sharp memory.
+Options:
+A. Carrie
+B. Laura
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_225
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The man looked at the sundial since a watch or clocktower was not at his disposal, having lost the _ .
+Options:
+A. watch
+B. clocktower
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_226
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Rachel's date was shorter than she, so she wore her shoes rather than her boots, because the _ had low heels.
+Options:
+A. shoes
+B. boots
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_227
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Victoria was eager to make the big sale to Sarah , as _ needed the money that day.
+Options:
+A. Victoria
+B. Sarah
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_228
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The game of chess was easy to play for Angela but not Rebecca because _ had a analytical mind.
+Options:
+A. Angela
+B. Rebecca
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_229
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The students were at their desks taking tests with pencils, they used the _ to hold the papers.
+Options:
+A. desks
+B. pencils
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_230
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+William was a huge animal rights activist but Randy couldn't care less so _ hated leather.
+Options:
+A. William
+B. Randy
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_231
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The dog ran into the bedroom during the rainstorm while we stayed in the kitchen because the rain was louder in the _ .
+Options:
+A. kitchen
+B. bedroom
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_232
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The room at the hotel cost more to stay in than the room at the inn because the _ was nastier.
+Options:
+A. hotel
+B. inn
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_233
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Joseph has an allergy to mangoes, but Nelson does not, so _ has to be very careful.
+Options:
+A. Joseph
+B. Nelson
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_234
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The dress could use either velcro or a zipper to close, the _ would last longer.
+Options:
+A. velcro
+B. zipper
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_235
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The doctor treated Natalie, but refused to see Tanya, because _ has an incredible insurance plan.
+Options:
+A. Natalie
+B. Tanya
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_236
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The highlands were a lot colder than the beaches because the _ were lower down in elevation.
+Options:
+A. highlands
+B. beaches
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_237
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+They disagreed over what dog to adopt as Mary wanted a yorkie while Maria wanted a labrador. _ loved small dogs.
+Options:
+A. Mary
+B. Maria
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_238
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Harper wanted to wear a cowboy hat and a bolero tie to her party, but the _ didn't fit her head.
+Options:
+A. tie
+B. hat
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_239
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Nelson always had the best friendships except with Neil since _ was always so polite.
+Options:
+A. Nelson
+B. Neil
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_240
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+If you are trying to get rid of blood spots from clothes use cold water instead of hot water the _ releases the stain.
+Options:
+A. cold water
+B. hot water
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_241
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+At night, Jeffrey always stays up later than Hunter to watch TV because _ wakes up late.
+Options:
+A. Jeffrey
+B. Hunter
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_242
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Tanya looked for an escape route while Elena did not because _ liked to live in the moment.
+Options:
+A. Tanya
+B. Elena
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_243
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Benjamin had less piercings than Jeffrey did so it was harder for _ to get a job.
+Options:
+A. Benjamin
+B. Jeffrey
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_244
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The drink was rich in caffeine and low in sugar because the _ was suffice in keeping the drinker awake.
+Options:
+A. caffeine
+B. sugar
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_245
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Elena waited patiently for Angela, as _ arrived early to meet at their prearranged spot.
+Options:
+A. Elena
+B. Angela
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_246
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+In her newly purchased house, Patricia was upset to discover a woodworm infestation and called the realtor Victoria. _ called the sellers to ask them pay for an exterminator.
+Options:
+A. Patricia
+B. Victoria
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_247
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+I did not see the sign on the billboard on the highway because  the _ was too huge.
+Options:
+A. sign
+B. billboard
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_248
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+April gets stressed when she goes waterskiing more than swimming. The _ is filled with relaxation for her.
+Options:
+A. waterskiing
+B. swimming
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_249
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+My teeth hurt more after eating the cake than the pie because the _ was sweeter tasting.
+Options:
+A. pie
+B. cake
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_250
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Gem had a husky breed named Ben. Ben liked both bones and toys. However, he liked the _ the best because it was inedible.
+Options:
+A. bones
+B. toys
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_251
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+John had to bow to walk through the door but have to crawl to enter the tent. The _ is taller.
+Options:
+A. door
+B. tent
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_252
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Tanya was the most powerful person in the world, and Sarah admired them, because _ was something to aspire to.
+Options:
+A. Tanya
+B. Sarah
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_253
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+At the store, John signed a warranty contract for the tablet, but did not purchase insurance for the phone, because the _ was unlikely to be damaged.
+Options:
+A. tablet
+B. phone
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_254
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The shoddy bridge held secure for when the cars were getting passengers across the town to their destinations on time. However the _ were racing.
+Options:
+A. passengers
+B. cars
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_255
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Eric often thought of his annoying habits, like hitting his pen on his desk, and asked Ryan if it bothered him; _ said he was sorry he had done it.
+Options:
+A. Eric
+B. Ryan
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_256
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Patricia had to pay less tax than Cynthia because _ made less money in the year.
+Options:
+A. Patricia
+B. Cynthia
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_257
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Carrie had an easier time crawling through the narrow tunnel than Patricia because _ was larger.
+Options:
+A. Carrie
+B. Patricia
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_258
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Patricia decided to buy Felicia dinner because they had been through a lot and _ just lost some money.
+Options:
+A. Patricia
+B. Felicia
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_259
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The photo came out of the Polaroid camera and fell onto the tray, so now the _ is lighter.
+Options:
+A. camera
+B. tray
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_260
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The hotline was staffed by Christine when Tanya called in because _ was a volunteer.
+Options:
+A. Christine
+B. Tanya
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_261
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Samantha strictly followed their diet while Sarah ate what they felt like, and _ ate chicken and broccoli all week.
+Options:
+A. Samantha
+B. Sarah
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_262
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The assertive commander told the privates to change their boots but not their shirts because the _ were disgusting.
+Options:
+A. boots
+B. shirts
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_263
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Although she was being prosecuted, Monica was welcomed into the sanctuary of the church by Samantha because _ was a sinful criminal.
+Options:
+A. Monica
+B. Samantha
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_264
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+It was easier for the diner to follow their budget than the food truck because the _ had more money to spend.
+Options:
+A. diner
+B. food truck
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_265
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Joe brought his books to school in a suitcase instead of a backpack because the _ was bigger.
+Options:
+A. suitcase
+B. backpack
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_266
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+So _ ignored drinking milk from the bottle because Rachel was thirsty and Erin already drank some water.
+Options:
+A. Rachel
+B. Erin
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_267
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+James panicked when his phone fell on the table thinking it will break but the _ is soft.
+Options:
+A. phone
+B. table
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_268
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Logan could eat gluten while Adam could not, and _ always had a smaller variety of foods to choose from.
+Options:
+A. Logan
+B. Adam
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_269
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The snow came down so much that Michael had to go plow Kevins driveway because _ agreed to take care of his neighbors.
+Options:
+A. Michael
+B. Kevin
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_270
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Nick wanted to play a game on the floor, but Dennis was hesitant because of his knees. _ was disappointed.
+Options:
+A. Nick
+B. Dennis
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_271
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Jane received a pet tortoise and an aquarium as a birthday gift, but the _ was too small.
+Options:
+A. aquarium
+B. tortoise
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_272
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Brett threw away all the soda and junk food to reduce Leslie's dependence on unhealthy foods because _ cares for his health.
+Options:
+A. Brett
+B. Leslie
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_273
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+He was late for the party but on time for the sleepover because the _ had just finished.
+Options:
+A. party
+B. sleepover
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_274
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The boards were used to build the houses instead of the bricks as the _ were sparse.
+Options:
+A. boards
+B. bricks
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_275
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Kyle makes a lot more money than Nelson can make at his job, as _ is a cashier.
+Options:
+A. Kyle
+B. Nelson
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_276
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Christine told Samantha at court their reasons for their expired license, since _ had the responsibility to judge.
+Options:
+A. Christine
+B. Samantha
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_277
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Bob had a love and hate relationship with gambling and the _ grew as he won more money.
+Options:
+A. love
+B. hate
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_278
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Hank was eating cereal and spilt milk on his hot pants and decided to get his pleated pants. He needed to change into new leggings because the _ are clean.
+Options:
+A. hot pants
+B. pleated pants
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_279
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Felicia was given a leather belt from Betty to clean it, because _ doesn't know how to clean it.
+Options:
+A. Felicia
+B. Betty
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_280
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+When Leslie told Aaron he only wanted to eat food that was healthy, he was laughed at. The teacher comforted _ immediately.
+Options:
+A. Leslie
+B. Aaron
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_281
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Craig had a faster running phone than Logan because _ had more apps running on theirs.
+Options:
+A. Craig
+B. Logan
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_282
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Brett asked Joel for advice and guidance about waxing his mustache, and afterwards _ felt burdened.
+Options:
+A. Brett
+B. Joel
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_283
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+His hands were a lot rougher than his thighs, because he used the _ for nothing.
+Options:
+A. hands
+B. thighs
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_284
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+At the beach, Emily collected some seashells for her mother Maria. _ polished the seashells before giving them away.
+Options:
+A. Emily
+B. Maria
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_285
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Blaze always wore a t-shirt instead of a shirt because he thought that the _ was stuffy and old fashioned.
+Options:
+A. shirt
+B. t-shirt
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_286
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Christopher was getting ready to wash Joel's hair,so _  got out shampoo by the sink and sat in the chair.
+Options:
+A. Christopher
+B. Joel
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_287
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The bartender cut Carrie off but continued to serve Emily because _ was too drunk.
+Options:
+A. Carrie
+B. Emily
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_288
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The cat Natalie owned would snuggle up on Jessica's lap because _ was nice to it all the time.
+Options:
+A. Natalie
+B. Jessica
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_289
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Elena was asked by Jessica to put patches in the holes in her pants; _ used some she already had at home.
+Options:
+A. Elena
+B. Jessica
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_290
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+It is likely that Donald but not Jason would get the job promotion because _ never stayed late and never did extra work.
+Options:
+A. Donald
+B. Jason
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_291
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The box slid down James hand when he was wearing a glove, hence he removed it and lift it again. The _ is slippery.
+Options:
+A. glove
+B. hand
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_292
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+When Steven found that their T-shirt had shrunk in the laundry, Robert's first reaction was to laugh, and _ became apologetic.
+Options:
+A. Steven
+B. Robert
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_293
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The life of Christine was pretty basic until they met Maria , _ is a  is lover of excitement .
+Options:
+A. Christine
+B. Maria
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_294
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Sarah had to call in an expert unlike Erin because _ had vast knowledge on the subject.
+Options:
+A. Sarah
+B. Erin
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_295
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Of the two owners, Jessica was far worse than Jennifer, because _ like to beat the dogs.
+Options:
+A. Jessica
+B. Jennifer
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_296
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Emily decided to eat a lot more yucca than Carrie did. _ was no longer hungry.
+Options:
+A. Emily
+B. Carrie
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_297
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Only the bag got melted and not the wood when they were inside the flame. The _ is hard.
+Options:
+A. wood
+B. bag
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_298
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Carla start doing sit-ups and pushups for her weak spots. The _ are for her chest.
+Options:
+A. sit-ups
+B. pushups
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_299
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Brian was jealous of Brett's new car because _ couldn't afford to buy a new car.
+Options:
+A. Brian
+B. Brett
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_300
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Late at night, Rebecca was more tired than Jessica so _ was able to go right to sleep.
+Options:
+A. Rebecca
+B. Jessica
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_301
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The filter in the living room needed to be changed more often than the one in the bedroom because the _ was dirtier.
+Options:
+A. living room
+B. bedroom
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_302
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Laura never feared anything like Erin because _ had a very strong and very powerful mind.
+Options:
+A. Laura
+B. Erin
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_303
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Although Angela was overall a nicer person than Natalie, _ often did practice humility very regularlly.
+Options:
+A. Angela
+B. Natalie
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_304
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+We didn't get the biscuits this morning before school, so I ordered an omelet instead of a hash brown as the _ would make me full.
+Options:
+A. omelet
+B. hash brown
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_305
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+I couldn't figure out what my costume would be for Halloween Peter Pan or Snow White. The _ costume I'd have to wear a dress.
+Options:
+A. Peter Pan
+B. Snow White
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_306
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The chef added butter to the pan on the stove and it began to melt right away because the _ was hot.
+Options:
+A. pan
+B. butter
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_307
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Victoria had no issues with Achilles Tendinitis unlike Betty because _ never wore sneakers with cushion.
+Options:
+A. Victoria
+B. Betty
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_308
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Maria gave birth to Katrina, so after the process was over, _ was a brand new mother.
+Options:
+A. Maria
+B. Katrina
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_309
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+I always wonder how people prefer reading in a library instead of at the house because the lack of people at the _ would make it easier to concentrate.
+Options:
+A. library
+B. house
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_310
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The living room was cleaner than the kitchen, because we spend leess time in in the _ .
+Options:
+A. living room
+B. kitchen
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_311
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Pine trees were a big part of Erin s Christmas tree farm while Megan was jewish but helped _ celebrate anyhow.
+Options:
+A. Erin
+B. Megan
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_312
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Jennifer got about with a seeing-eye dog but Mary did not because _ was blind.
+Options:
+A. Jennifer
+B. Mary
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_313
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Eric replaced his long hair with a new hat for the summer time, the _ was old.
+Options:
+A. hair
+B. hat
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_314
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The man paid cash for the phone but purchased the tablet with credit because the _ was inexpensive.
+Options:
+A. Phone
+B. Tablet
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_315
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The air in the shop was better than in the garage, because the _ was highly purified.
+Options:
+A. garage
+B. shop
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_316
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Adam always spent all of the free time watching Tv unlike Hunter who volunteered, due to _ being lazy.
+Options:
+A. Adam
+B. Hunter
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_317
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The house of Aaron took some damage from the storm but not Michael's house, because _ lived farther away.
+Options:
+A. Aaron
+B. Michael
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_318
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Rachel hated their new in-laws, but tried to keep it secret from Monica.  Eventually _ told them.
+Options:
+A. Rachel
+B. Monica
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_319
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+I was wearing wool socks when I went to try on my new boots but I couldn't get them on because the _ were too small.
+Options:
+A. boots
+B. socks
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_320
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Rebecca asked Kayla to turn the lights out but _ did not want to go to sleep.
+Options:
+A. Rebecca
+B. Kayla
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_321
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Patricia loved the smell of Rachel's shampoo, so she asked where to buy it. _ gave her a bottle the next day.
+Options:
+A. Patricia
+B. Rachel
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_322
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Jan planted her herbs in small growing bags, but she worried that the _ would be too stifled to put down roots.
+Options:
+A. herbs
+B. bags
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_323
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Betty's blanket was much thicker than Jessica's blanket, so _ felt cold all night in bed.
+Options:
+A. Betty
+B. Jessica
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_324
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Joel always liked to turn the heater up higher than Joseph did for the reason that _ was always cold.
+Options:
+A. Joel
+B. Joseph
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_325
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Joe immediately went to bakery before the bank because the _ had a limited supply of what he wanted.
+Options:
+A. bakery
+B. bank
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_326
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Emily was nine months pregnant but Tanya was not pregnant at all. _ had a beautiful baby girl.
+Options:
+A. Emily
+B. Tanya
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_327
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The woman pierced the customer's tongue with a needle before piercing his nose because the _ was still sensitive.
+Options:
+A. tongue
+B. nose
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_328
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+No one would have noticed the spot on that skin because the _ is small.
+Options:
+A. spot
+B. skin
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_329
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+They brought the cornhole supplies to the camp site so they could play while adults cooked dinner.  The boys really enjoyed the _ after the game.
+Options:
+A. cornhole
+B. dinner
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_330
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The teen found the new hat was no substitute for his cool shirt.  The _ was just cool to wear to school.
+Options:
+A. hat
+B. shirt
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_331
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The bank permitted Michael to open a checking account, but not Matthew, because _ was employed.
+Options:
+A. Michael
+B. Matthew
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_332
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The chef fried less mushrooms than tomatoes because the _ were ordered frequently at the restaurant.
+Options:
+A. mushrooms
+B. tomatoes
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_333
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Samantha wanted to reduce smoking by relying on a new nicotine patch and therapy video, but the _ was addictive.
+Options:
+A. patch
+B. video
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_334
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The tree fell down after the sapling because the roots of the _ were weaker.
+Options:
+A. tree
+B. sapling
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_335
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Joseph loved to smoke cigarettes while Derrick did not although _ hated to use a hookah.
+Options:
+A. Joseph
+B. Derrick
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_336
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Craig had problems with dry skin but not Hunter since _ used a soothing skin lotion.
+Options:
+A. Craig
+B. Hunter
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_337
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Ian laughs at Ryan because of the small Christmas tree they picked out. _ wants a table top tree.
+Options:
+A. Ian
+B. Ryan
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_338
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+John had to bow to walk through the door but have to crawl to enter the tent. The _ is shorter.
+Options:
+A. door
+B. tent
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_339
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+James was able to hide the book inside his jacket because the _ is small.
+Options:
+A. book
+B. jacket
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_340
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The stain was darker on Jason's shirt than Donald's because _ spilled red wine and not white wine.
+Options:
+A. Jason
+B. Donald
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_341
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The diary of Carrie is boring, and the one Jennifer writes is interestin. _ has lived a simple life.
+Options:
+A. Carrie
+B. Jennifer
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_342
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Patricia was called back for a second interview but not Victoria, as _ had passed the background check.
+Options:
+A. Patricia
+B. Victoria
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_343
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+It doesn't take much to shift between ice and water. The _ is fluid and flexible when its warm.
+Options:
+A. water
+B. ice
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_344
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Caroline works in the catering and food wholesale industries, but enjoys food preparation more, so she prefers her work in the _ industry.
+Options:
+A. catering
+B. food wholesale
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_345
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Neil introduced William, who is very shy, to his friends, but _ was being very embarrassing.
+Options:
+A. Neil
+B. William
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_346
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+So _ drank milk from the bottle because Rachel was thirsty and Erin already drank some water.
+Options:
+A. Rachel
+B. Erin
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_347
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Jody wanted new mascara and eyeliner, either black or brown, but the _ was too light.
+Options:
+A. black
+B. brown
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_348
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Hunter gave Justin two weeks to respond after sending him a demand letter. .After that _ will sue him in the court.
+Options:
+A. Hunter
+B. Justin
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_349
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+My mom always had training at the house, but not today because the _ was unavailable.
+Options:
+A. training
+B. house
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_350
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+He was having an asthma attack but forgot his inhaler so someone recommended coffee as the _ was unavailable.
+Options:
+A. inhaler
+B. coffee
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_351
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Carl needed a new top after ripping his epaulette shirt. He wanted a  flannel shirt because the _ is old.
+Options:
+A. epaulette shirt
+B. flannel shirt
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_352
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Sandra tried out a new conditioner for her hair that makes it curly, but was upset with the results because the _ was too mild.
+Options:
+A. conditioner
+B. hair
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_353
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Natalie has a rich husband and lots of money, Jennifer is poor _ needs to make her clothes.
+Options:
+A. Natalie
+B. Jennifer
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_354
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Marty needed some sport and dress shoes, but could only buy one pair. He went with the _ since he would be going to a wedding.
+Options:
+A. dress
+B. sport
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_355
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The paper bags got torn when James was using it to move the groceries. The _ are weak.
+Options:
+A. bags
+B. groceries
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_356
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Jeffrey thought Craig probably had gum and asked for a piece, because _ had bad breath.
+Options:
+A. Jeffrey
+B. Craig
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_357
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Joel got advice on buying stocks from his cousin Bob while Eric used a broker. _ had a virtually worthless portfolio of companies.
+Options:
+A. Joel
+B. Eric
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_358
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Benjamin shaved his beard, but Nick had just grown one, so _ gave them all his old oils.
+Options:
+A. Benjamin
+B. Nick
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_359
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The plan devised by Christine to get Kayla to like them failed, as _ did not really try it.
+Options:
+A. Christine
+B. Kayla
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_360
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+It smelled a lot better near the pool than it did near the compost because there was no garbage in the _ .
+Options:
+A. compost
+B. pool
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_361
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Logan reads a lot, while Donald almost never picks up a book because _ is a plumber.
+Options:
+A. Logan
+B. Donald
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_362
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The ingredients that I use are tastier than the available toppings because the _ are old.
+Options:
+A. ingredients
+B. toppings
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_363
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Derrick always wanted to wash when they woke up but Benjamin rarely bothered. _ was a very dirty person.
+Options:
+A. Derrick
+B. Benjamin
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_364
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Throughout the practice Rachel pushed the limits of Megan to get ready for the game because _ was the coach.
+Options:
+A. Rachel
+B. Megan
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_365
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Craig grew frustrated trying to coach Nick in soccer, as _ lacked the aptitude needed for the task.
+Options:
+A. Craig
+B. Nick
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_366
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Jeffrey thought Craig probably had gum and asked for a piece, because _ had fresh breath.
+Options:
+A. Jeffrey
+B. Craig
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_367
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Sarah thought that Elena was overpacking for Hawaii, because _ had a very full suitcase.
+Options:
+A. Sarah
+B. Elena
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_368
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Angela beat Mary in the weightlifting competition, but it wasn't fair. _ had been taking steroids.
+Options:
+A. Angela
+B. Mary
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_369
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+It took a less time for Katrina to read the book than Cynthia since _ was a better reader.
+Options:
+A. Katrina
+B. Cynthia
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_370
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The gothic lolita style suited Victoria better than Sarah because _ looked the worst in frilly dresses.
+Options:
+A. Victoria
+B. Sarah
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_371
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The bill had extra charges for past due and hookup. I owe the _ for being a new customer.
+Options:
+A. past due
+B. hookup
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_372
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Jennifer got about with a seeing-eye dog but Mary did not because _ was sighted.
+Options:
+A. Jennifer
+B. Mary
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_373
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Elena brought the horse to the stables owned by Cynthia, so _ could sell the animal.
+Options:
+A. Elena
+B. Cynthia
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_374
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The shoe james bought got pinched by a nail while jogging because the _ is soft.
+Options:
+A. shoe
+B. nail
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_375
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Derrick showed Jason how to cut the tiles for their kitchen, and _ was shown appreciation for their help.
+Options:
+A. Derrick
+B. Jason
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_376
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+We were making orange jack o lanterns and  bought candles to put in the oranges, the candles did not fit. The _ were too big.
+Options:
+A. candles
+B. oranges
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_377
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Steven asked Joseph to have their stomach examined after _ had a night full of really bad gas issues.
+Options:
+A. Steven
+B. Joseph
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_378
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Betty gave the full pitcher to Rachel so _ could fill her glass with water.
+Options:
+A. Betty
+B. Rachel
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_379
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Samantha wanted to reduce smoking by relying on a new nicotine patch and therapy video, but the _ was boring.
+Options:
+A. patch
+B. video
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_380
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Cynthia gave a rabbit as a companion to Carrie because _ explained they were lonely.
+Options:
+A. Cynthia
+B. Carrie
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_381
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+I don't want to use that iron on my new shirt, and, yes, it's because the _ is too cheap.
+Options:
+A. iron
+B. shirt
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_382
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Mary thinks Sarah has beautiful skin, even though _ actually has the better complexion of the two.
+Options:
+A. Mary
+B. Sarah
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_383
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+I look forward to the Sunday newspaper so I can look at the comics.  This is the only reason I still get the _ in this day and age.
+Options:
+A. newspaper
+B. comics
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_384
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The arrow stuck to the bark but not the stone because the _ was flimsy.
+Options:
+A. bark
+B. stone
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_385
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Katrina did not value the antique pictures as much as Lindsey because _ was a history buff.
+Options:
+A. Katrina
+B. Lindsey
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_386
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The teenager chose a jeweled pin for her belly piercing, but the _ was too tiny.
+Options:
+A. piercing
+B. pin
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_387
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Ryan grew the houseplant from seed, but Matthew bought a plastic plant instead, because _ tended to neglect plants.
+Options:
+A. Ryan
+B. Matthew
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_388
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+At the ballgame, Matthew was really thirsty and Aaron was not. _ took his beverage.
+Options:
+A. Matthew
+B. Aaron
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_389
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Since Craig wears clear contacts and William wears colored ones, it is safe to assume that _ loves the color of their eyes.
+Options:
+A. Craig
+B. William
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_390
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Terry tried to bake the eggplant in the toaster oven but the _ was too big.
+Options:
+A. eggplant
+B. toaster
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_391
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The room at the hotel cost more to stay in than the room at the inn because the _ was nicer.
+Options:
+A. hotel
+B. inn
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_392
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Nelson wanted to be an actor so Neil got them an audition because _ had poor connections in the movie industry.
+Options:
+A. Nelson
+B. Neil
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_393
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Rebecca thought Disney movies were the best thing to watch but Samantha like horror movies better. _ rented Saw from Redbox.
+Options:
+A. Rebecca
+B. Samantha
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_394
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Natalie committed a bunch of good deeds in Samantha's name, because _ didn't want the credit.
+Options:
+A. Natalie
+B. Samantha
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_395
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+I always wonder how people prefer reading in a library instead of at the house because the amount of people at the _ would make it hard to concentrate.
+Options:
+A. library
+B. house
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_396
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+My gun was inspected with a cloth to make sure it worked fine. The _ was soft.
+Options:
+A. cloth
+B. gun
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_397
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Christine took all the money while Mary told her to save the money for herself. _ only knows to take.
+Options:
+A. Christine
+B. Mary
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_398
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Christopher tried to empty all the water from the tank in the yard because Michael had asked him to, but _ wasn't able to get it all out.
+Options:
+A. Christopher
+B. Michael
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_399
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Joel had many extra possesions while Neil didn't, so _ had to rent a storage shed.
+Options:
+A. Joel
+B. Neil
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_400
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Aaron wanted to go the gym but the others wanted to go to the park because the _ did require membership.
+Options:
+A. gym
+B. park
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_401
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Beautiful roses were bought by Jason for Dennis because _ is a receiver in general.
+Options:
+A. Jason
+B. Dennis
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_402
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Brian informed Aaron that their coach had scheduled an extra event on Saturday morning since _ was present at yesterday's practice.
+Options:
+A. Brian
+B. Aaron
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_403
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Jack wanted to start a game, but couldn't decide between baseball or basketball. The _ game would call for more friends.
+Options:
+A. baseball
+B. basketball
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_404
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Ryan ordered the salad with added avocado, but Randy passed, because _ wasn't ok with the $3 upcharge.
+Options:
+A. Ryan
+B. Randy
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_405
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Mary was helping Patricia's daughter put on makeup because _ watches a lot of makeup tutorials.
+Options:
+A. Mary
+B. Patricia
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_406
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Derrick had been working on his script for years and refused to get any other job, much to Logan's dismay. _ was worried and upset.
+Options:
+A. Derrick
+B. Logan
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_407
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Samuel tried unsuccessfully to get Brett to skip school because _ was a truant that didn't follow the rules.
+Options:
+A. Samuel
+B. Brett
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_408
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Donna needed dentures or implants for her bad teeth. She chose the _ because they are permanent.
+Options:
+A. dentures
+B. implants
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_409
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Joel researched laws and helped to open a preschool for Eric. Because _ is very good with kids.
+Options:
+A. Joel
+B. Eric
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_410
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Neil introduced William, who is very shy, to his friends, but _ was being very quiet.
+Options:
+A. Neil
+B. William
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_411
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Neil asked Brian to hand him the measuring tape, but _ already measured the wall to center the picture.
+Options:
+A. Neil
+B. Brian
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_412
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+We didn't get the biscuits this morning before school, so I ordered an omelet instead of a hash brown as the _ would make me hungry.
+Options:
+A. omelet
+B. hash brown
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_413
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Joel had many extra possesions while Neil didn't, so _ didn't have to rent a storage shed.
+Options:
+A. Joel
+B. Neil
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_414
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+At the beauty salon, Angela preferred to work on her eyebrows instead of her eyelashes because the _ were already worked on.
+Options:
+A. eyebrows
+B. eyelashes
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_415
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The girl broke Leslie's heart but not Kenneth's because _ was never in love with her.
+Options:
+A. Leslie
+B. Kenneth
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_416
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The kids at camp liked the activities with water, but avoided the sand, because the _ was cleansed.
+Options:
+A. sand
+B. water
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_417
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Jill was on a budget so she only bought a new dress for the ceremony and wore an old hat. She figured the _ would be less noticeable.
+Options:
+A. dress
+B. hat
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_418
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+They discussed the company's budget at the business meeting but the _ was boring and the meeting was ran long.
+Options:
+A. budget
+B. meeting
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_419
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Logan ended the one-side relationship they were having with Robert, which made _ feel relieved.
+Options:
+A. Logan
+B. Robert
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_420
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+After a nasty breakup, Kayla needed a restraining order from Samantha because _ was scary to them.
+Options:
+A. Kayla
+B. Samantha
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_421
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Derrick greeted Craig at the event but he did not respond to him because _ is humble.
+Options:
+A. Derrick
+B. Craig
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_422
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Monica had trouble paying off their loan unlike Sarah because _ was an infrequent gambler.
+Options:
+A. Monica
+B. Sarah
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_423
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The athletes on the team of Christine were more tired than those on the team of Monica because the ones with _ did less laps.
+Options:
+A. Christine
+B. Monica
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_424
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Tanya was unrecognizable after Sarah was done beating them, so _ ended up going to jail.
+Options:
+A. Tanya
+B. Sarah
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_425
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Jasmine wanted to put the emerald on the ring but it would not fit. The _ was minuscule.
+Options:
+A. emerald
+B. ring
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_426
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+All of the bands were not able to march on the fields at the same time because the _ were massive.
+Options:
+A. bands
+B. fields
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_427
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+To pay for dinner, he used the credit card rather than cash. The _ was not available.
+Options:
+A. cash
+B. card
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_428
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Ben had to drain both water and oil down the sink, but the _ was too fluid.
+Options:
+A. oil
+B. water
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_429
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Dennis made their weight loss goal before Eric, because _ only ate a healthy diet.
+Options:
+A. Dennis
+B. Eric
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_430
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+She decided to report the accident and the burglary, but the _ required much less investigation.
+Options:
+A. burglary
+B. accident
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_431
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+When we go hiking I bring my backpack because it has built in water bottles and places for snacks. Today I forgot to bring the _ and was starving.
+Options:
+A. snacks
+B. water bottles
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_432
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The woman pierced the customer's tongue with a needle before piercing his nose because the _ was numb.
+Options:
+A. tongue
+B. nose
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_433
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Pho needs cilantro and beef to be tasty. However, the _ can be too bitter.
+Options:
+A. cilantro
+B. beef
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_434
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Bill could only go out to the restaurants rather than the bars because going to the _ required a minimum age.
+Options:
+A. restaurants
+B. bars
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_435
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+We reached a settlement with the company but were roadblocked by the court.  The _ was just more inflexible in its dealings.
+Options:
+A. company
+B. court
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_436
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+At the estate sale, John saw the hammer was more affordable than the screwdriver, because the _ was used.
+Options:
+A. hammer
+B. screwdriver
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_437
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Sally knew the exam would be hard so she developed a study schedule. The _ was 4 weeks away.
+Options:
+A. exam
+B. schedule
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_438
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+At work, Mary uses a broiler a lot, but Rebecca uses a chainsaw. That's because _ is a tree cutter.
+Options:
+A. Mary
+B. Rebecca
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_439
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Refraining from drinking was easy for Kyle but not Eric, as _ never enjoyed the taste of alcohol.
+Options:
+A. Kyle
+B. Eric
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_440
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The roof of Rachel's home is old and falling apart, while Betty's is new. The home value of _ is lower.
+Options:
+A. Rachel
+B. Betty
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_441
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The sand and water in the fish tank were very dirty, so the _ needed to be scrubbed.
+Options:
+A. water
+B. sand
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_442
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Joe brought his books to school in a suitcase instead of a backpack because the _ was smaller.
+Options:
+A. suitcase
+B. backpack
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_443
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Kyle asked Brett for some tips on healthy eating because _ has recently lost weight.
+Options:
+A. Kyle
+B. Brett
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_444
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Michael was on a diet, but cheated by eating junk food with Christopher. _ felt bad for ruining his plan.
+Options:
+A. Michael
+B. Christopher
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_445
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The hotel had a terrible gym but a nice restaurant; the _ was something management attended to.
+Options:
+A. gym
+B. restaurant
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_446
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The Windows software attempted to install the upgrades onto the computer, but the _ was outdated.
+Options:
+A. software
+B. computer
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_447
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+I was driving my car and tried to get through the intersection, but the light turned red. The _ is too fast.
+Options:
+A. light
+B. car
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_448
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Ian needed to adjust the mirror and Craig did not because _ was the same height as the owner of the car.
+Options:
+A. Ian
+B. Craig
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_449
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Jason was easily scared, so he watched sci-fi movies instead of horror movies because the _ were not scary.
+Options:
+A. sci-fi movies
+B. horror movies
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_450
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The pressure of finding new jobs is harder than finding new apartments. The _ are high in numbers.
+Options:
+A. jobs
+B. apartments
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_451
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+We set up the treasure hunt, but the treasure chest was found easily on the path because the _ was short.
+Options:
+A. chest
+B. path
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_452
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The professor's eyes could not see clearly because of the sunglasses he had. The _ were poor.
+Options:
+A. Sunglasses
+B. Eyes
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_453
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Mary loved to make baked potatoes, but Monica couldn't stand the smell; _ asked her to only make them when she was alone.
+Options:
+A. Mary
+B. Monica
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_454
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Erin has a teenager whereas Patricia has toddler-age children because _ became a mother first.
+Options:
+A. Erin
+B. Patricia
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_455
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Kenneth's back is being tended to by Derrick at the office, so _ is the client in this situation.
+Options:
+A. Kenneth
+B. Derrick
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_456
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Henry wanted to stop yelling and start using a more effective type of communication because the _ was nice.
+Options:
+A. yelling
+B. communication
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_457
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Kevin ate large amounts of food but not Adam. _ didn't have to get checked to see if they had a tapeworm.
+Options:
+A. Kevin
+B. Adam
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_458
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Whilst on the beach Cynthia loved to wear a bikini but Laura did not because _ had a fat stomach.
+Options:
+A. Cynthia
+B. Laura
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_459
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Tanya recently finished filling out a job application but not Megan because _ is currently unemployed.
+Options:
+A. Tanya
+B. Megan
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_460
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Craig had problems with dry skin but not Hunter because _ used an irritating skin lotion.
+Options:
+A. Craig
+B. Hunter
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_461
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Jason considers he and Benjamin to be friends even though _ puts little effort into their relationship.
+Options:
+A. Jason
+B. Benjamin
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_462
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Elena enjoyed yoga classes while Amy preferred other forms of exercise; this was because _ was flexible.
+Options:
+A. Elena
+B. Amy
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_463
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Tanya was an adult while Samantha was young and still had room to grow , so _ took her old clothes.
+Options:
+A. Tanya
+B. Samantha
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_464
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+They had to eat a lot to gain the strength they had lost and be able to work, the _ was too little.
+Options:
+A. work
+B. strength
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_465
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Neil's cat was terrified of thunderstorms but Kyle's wasn't bothered by them. _ found their cat hiding under the bed after the loud crackle of thunder.
+Options:
+A. Neil
+B. Kyle
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_466
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Leslie coughed more when they were eating their food than Adam although there was more seasoning in the food of _ .
+Options:
+A. Leslie
+B. Adam
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_467
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+After walking barefooted, James washed his foot in the bowl of water and the _ got dirty.
+Options:
+A. foot
+B. water
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_468
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Sarah rolls her eyes as Monica extolls the virtues of vinegar as a cleaning solution for everything since _ is bored.
+Options:
+A. Sarah
+B. Monica
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_469
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Aria tried to fix the fence in his garden by using new paint and wood, but the _ had termites.
+Options:
+A. paint
+B. wood
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_470
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The paint would melt in the sun, so we used a varnish instead, since the _ was susceptible to heat.
+Options:
+A. paint
+B. varnish
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_471
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The man decided to use a nail instead of a screw because the _ would be looser in the wood.
+Options:
+A. nail
+B. screw
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_472
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Monica painted the porch for Kayla so the neighbor berated _ for being so lazy.
+Options:
+A. Monica
+B. Kayla
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_473
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Carrie loves putting sugar in coffee as opposed to Laura because _ thinks the coffee tastes better.
+Options:
+A. Carrie
+B. Laura
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_474
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Joel plans to go to Latin America next year where Dennis is currently living, _ has never been to Latin America.
+Options:
+A. Joel
+B. Dennis
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_475
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The roof would have to be repaired using tarps or shingles before the storm comes. The _ are a temporary fix, though.
+Options:
+A. tarps
+B. shingles
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_476
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+When Benjamin put the family into debt, Adam filed for divorce; then the judge gave _ a sympathetic look.
+Options:
+A. Benjamin
+B. Adam
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_477
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Jen planned a retreat to a mountain or the park. She chose the _ because it was warmer.
+Options:
+A. mountain
+B. park
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_478
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Adam cried when Donald had a stubbed toe since _ had a look of pain on his face.
+Options:
+A. Adam
+B. Donald
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_479
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Derrick really liked working in Human Resources and William wanted to work at the same company, and _ subsequently accepted a position.
+Options:
+A. Derrick
+B. William
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_480
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Since Craig threw aluminum cans in the trash and Benjamin recycled, _ was environmentally irresponsible.
+Options:
+A. Craig
+B. Benjamin
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_481
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Ian laughs at Ryan because of the small Christmas tree they picked out. _ wants a six foot tree.
+Options:
+A. Ian
+B. Ryan
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_482
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The pharmacy offered a product that could cure any disease, made of a new chemical and container, but the _ could hold few drugs.
+Options:
+A. chemical
+B. container
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_483
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The sand and water in the fish tank were very dirty, so the _ needed to be filtered.
+Options:
+A. water
+B. sand
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_484
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+It was easier for the diner to follow their budget than the food truck because the _ had less money to spend.
+Options:
+A. diner
+B. food truck
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_485
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Samantha gifted her new bathrobe to Betty because it felt very itchy for _ when she tried it on.
+Options:
+A. Samantha
+B. Betty
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_486
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+In order to grow his plants naturally, he bought fertilizer and water. The _ was filled with nutrients.
+Options:
+A. fertilizer
+B. water
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_487
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Sarah was quickly promoted to manager over Kayla, because _ excelled at angering other people.
+Options:
+A. Sarah
+B. Kayla
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_488
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Dennis invited Joseph on a trip to the hatchery tomorrow morning because _ was also interested in fish.
+Options:
+A. Dennis
+B. Joseph
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_489
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The parakeet flew to Hunter but flew past Samuel because _ had some bird seed in their hand.
+Options:
+A. Hunter
+B. Samuel
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_490
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Kevin was worried about Eric's infections so _ decided to go to an emergency clinic.
+Options:
+A. Kevin
+B. Eric
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_491
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Joel ran out of toilet paper, so he asked Dennis in the stall next to him for some. _ was relieved when he agreed.
+Options:
+A. Joel
+B. Dennis
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_492
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Samantha told Lindsey to be careful with the porcelain doll; when she ignored her and dropped the doll, _ was very sorry.
+Options:
+A. Samantha
+B. Lindsey
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_493
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Even though Ian had less of a sweet tooth than Robert, _ liked chocolate more.
+Options:
+A. Ian
+B. Robert
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_494
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Samantha couldn't see any alternatives, but Emily could, because _ wasn't nearly as open minded.
+Options:
+A. Samantha
+B. Emily
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_495
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Mary wanted to surprise Cynthia with a puppy for Christmas, so _ asked about allergies to dogs.
+Options:
+A. Mary
+B. Cynthia
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_496
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Emily had always loved kids and Jessica felt the opposite, so _ was surprised to become a pediatrician.
+Options:
+A. Emily
+B. Jessica
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_497
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+The employee tried to put the extra clothes in the closets but the _ were too small.
+Options:
+A. closets
+B. clothes
+Answer:
+",A,1,['\n'],multiple_choice,exact_match,winogrande_498
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Because of his rash, he opted not to wash with soap but with oil, as the _ would soothe it.
+Options:
+A. soap
+B. oil
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_499
+winogrande,"Choose the correct answer. Respond with a single letter.
+Context:
+Laura was climbing down from the roof and Katrina was below so, _ was holding the ladder.
+Options:
+A. Laura
+B. Katrina
+Answer:
+",B,1,['\n'],multiple_choice,exact_match,winogrande_500

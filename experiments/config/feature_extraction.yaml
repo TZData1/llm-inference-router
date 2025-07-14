@@ -1,0 +1,32 @@
+# config/features.yaml
+feature_extraction:
+  task_classification:
+    task_types: 
+      - mmlu
+      - gsm8k
+      - hellaswag
+      - winogrande
+      - cnn_dailymail
+    embedding_model: "sentence-transformers/all-MiniLM-L6-v2"
+    embedding_dim: 384
+    instruction_max_length: 200
+    classifier_path: "/home/ubuntu/repos/contextual-llm-router/models/proper_task_classifier.pkl"
+    
+  semantic_clustering:
+    num_clusters: 9
+    embedding_model: "sentence-transformers/all-MiniLM-L6-v2"
+    
+  complexity:
+    measure: "flesch_reading_ease"
+    bins:
+      - 20
+      - 30
+    use_binned: true
+    
+  context_vector:
+    one_hot_encode: true
+    include_raw_embeddings: false
+    normalize_numeric: true
+
+feasibility:
+  max_latency: 5

@@ -1,0 +1,4 @@
+largest_model_id: yi-34b
+smallest_model_id: qwen2.5-0.5b
+accuracy_model_id: gemma-3-27b
+balanced_model_id: qwen2.5-7b

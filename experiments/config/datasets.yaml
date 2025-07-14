@@ -1,0 +1,56 @@
+# config/datasets.yaml
+datasets:
+  mmlu:
+    load_params:
+      path: "cais/mmlu"
+      name: "all"
+    split: "test"
+    columns:
+      input1: "question"
+      input2: "choices"
+      reference: "answer"
+    preprocessing:
+      input1_prefix: "Answer with a single letter only.\nQuestion: "
+      input2_prefix: "Options:\n"
+      output_prefix: "Answer: "
+      reference_mapping: "index_to_letter"
+    extraction:
+      method: "multiple_choice"
+      pattern: "([A-D])"
+    generation:
+      max_new_tokens: 1
+      stop_sequence: ["#"]
+      
+  gsm8k:
+    load_params:
+      path: "gsm8k"
+      name: "main"
+    split: "test"
+    columns:
+      input1: "question"
+      reference: "answer"
+    preprocessing:
+      input1_prefix: "Solve this step by step: "
+    extraction:
+      method: "regex"
+      pattern: "(\\d+)"
+    generation:
+      max_new_tokens: 256
+      stop_sequence: ["\n"]
+      
+  cnn_dailymail:
+    load_params:
+      path: "cnn_dailymail"
+      name: "3.0.0"
+    split: "test"
+    columns:
+      input1: "article"
+      reference: "highlights"
+    preprocessing:
+      input1_prefix: "Summarize: "
+    extraction:
+      method: "raw"
+    generation:
+      max_new_tokens: 256
+      stop_sequence: ["###"]
+

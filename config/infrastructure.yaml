@@ -1,0 +1,10 @@
+database:
+  host: "localhost"
+  port: 5432
+  database: "llm_db"
+  user: "tz"
+  password: "hpc_llm"
+
+redis:
+  host: "localhost"
+  port: 6380

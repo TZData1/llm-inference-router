@@ -1,0 +1,8 @@
+# config/general.yaml
+random_seed: 42
+samples_per_dataset: 500
+
+# paths
+cache_dir: "/data/tziller/hf_cache"
+preprocessed_dir: "data/preprocessed"
+hf_token: "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"
