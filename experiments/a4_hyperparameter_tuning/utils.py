@@ -1,12 +1,13 @@
 # experiments/a4_hyperparameter_tuning/utils.py
-import logging
 import itertools
-from copy import deepcopy
+import logging
+
 logger = logging.getLogger(__name__)
+
 
 def generate_hyperparameter_configs(base_params: dict):
     """
-    Generates specific hyperparameter configurations from a base dictionary 
+    Generates specific hyperparameter configurations from a base dictionary
     containing lists of values for parameters to be tuned.
 
     Args:
@@ -17,7 +18,7 @@ def generate_hyperparameter_configs(base_params: dict):
     Returns:
         list[dict]: A list of dictionaries, where each dictionary represents
                     a unique combination of hyperparameter values.
-                    Example output for above: 
+                    Example output for above:
                     [
                         {'alpha': 0.1, 'regularization': 0.1},
                         {'alpha': 1.0, 'regularization': 0.1}
@@ -44,6 +45,8 @@ def generate_hyperparameter_configs(base_params: dict):
         specific_config = dict(zip(param_names, combo))
         specific_config.update(fixed_params)
         configs.append(specific_config)
-        
-    logger.debug(f"Generated {len(configs)} hyperparameter configurations from base: {base_params}")
+
+    logger.debug(
+        f"Generated {len(configs)} hyperparameter configurations from base: {base_params}"
+    )
     return configs

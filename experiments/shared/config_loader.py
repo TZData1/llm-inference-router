@@ -1,20 +1,21 @@
-import yaml
-from pathlib import Path
 import logging
+from pathlib import Path
+
+import yaml
 
 logger = logging.getLogger(__name__)
-DEFAULT_CONFIG_DIR = Path(__file__).resolve().parent.parent.parent / 'config'
+DEFAULT_CONFIG_DIR = Path(__file__).resolve().parent.parent.parent / "config"
 
 CONFIG_FILES = {
-    'models': 'models.yaml',
-    'datasets': 'datasets.yaml',
-    'mab': 'mab.yaml',
-    'metrics': 'metrics.yaml',
-    'baselines': 'baselines.yaml',
-    'feature_extraction': 'feature_extraction.yaml',
-    'experiments': 'experiments.yaml'
-
+    "models": "models.yaml",
+    "datasets": "datasets.yaml",
+    "mab": "mab.yaml",
+    "metrics": "metrics.yaml",
+    "baselines": "baselines.yaml",
+    "feature_extraction": "feature_extraction.yaml",
+    "experiments": "experiments.yaml",
 }
+
 
 def load_config(*config_keys, config_dir=None):
     """
@@ -23,11 +24,11 @@ def load_config(*config_keys, config_dir=None):
     Args:
         *config_keys (str): Keys identifying which configs to load (e.g., 'models', 'datasets').
                             If empty, attempts to load all known configs.
-        config_dir (Path or str, optional): Directory containing config files. 
+        config_dir (Path or str, optional): Directory containing config files.
                                              Defaults to project's config/ directory.
 
     Returns:
-        dict: A dictionary where keys are config names (e.g., 'models') 
+        dict: A dictionary where keys are config names (e.g., 'models')
               and values are the loaded config dictionaries. Returns {} on error.
     """
     if config_dir is None:
@@ -47,11 +48,11 @@ def load_config(*config_keys, config_dir=None):
         if key not in CONFIG_FILES:
             logger.warning(f"Unknown config key '{key}'. Skipping.")
             continue
-        
+
         file_path = config_dir / CONFIG_FILES[key]
         if file_path.exists():
             try:
-                with open(file_path, 'r') as f:
+                with open(file_path, "r") as f:
                     loaded_configs[key] = yaml.safe_load(f)
                     logger.info(f"Loaded config '{key}' from {file_path}")
             except yaml.YAMLError as e:
@@ -83,7 +84,7 @@ def setup_experiment_dirs(experiment_name: str, base_dir: str = "experiments"):
     if not base_path.is_dir():
         logger.error(f"Base experiment directory not found: {base_path}")
 
-        return None 
+        return None
 
     results_path = base_path / "results"
     plots_path = base_path / "plots"
@@ -91,4 +92,4 @@ def setup_experiment_dirs(experiment_name: str, base_dir: str = "experiments"):
     results_path.mkdir(exist_ok=True)
     plots_path.mkdir(exist_ok=True)
 
-    return {"base": base_path, "results": results_path, "plots": plots_path} 
+    return {"base": base_path, "results": results_path, "plots": plots_path}

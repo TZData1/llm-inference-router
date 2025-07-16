@@ -31,6 +31,23 @@ src/                # Core implementations
 └── services/       # Routing and evaluation services
 ```
 
+## Quick Start
+
+```bash
+# Setup everything
+make setup
+
+# Run an experiment
+make a5-full
+
+# Generate plots from results
+## If not 'make setup' before: make setup-venv install-deps
+make a5-plot
+
+# View all available commands
+make [TAB][TAB]
+```
+
 ## Setup Instructions
 
 ### Prerequisites
@@ -66,32 +83,73 @@ Or manually:
 
 ## Running Experiments
 
-Using Make:
-```bash
-make a2  # Warmup analysis
-make a3  # Feature ablation
-make a4  # Hyperparameter tuning
-make a5  # Algorithm comparison
-make a6  # Lambda parameter sweep
-make a8  # Adaptability test
+### Full Experiments
 
-# Or run all experiments in screen sessions
-make run-all
+Using Make (recommended):
+```bash
+# Run individual experiments
+make a2-full  # Warmup analysis
+make a3-full  # Feature ablation
+make a4-full  # Hyperparameter tuning
+make a5-full  # Algorithm comparison
+make a6-full  # Lambda parameter sweep
+make a8-full  # Adaptability test
+
+# Legacy shortcuts (same as -full)
+make a2, make a3, make a4, make a5, make a6, make a8
+
+# Run all experiments in screen sessions
+make run-all-full
 ```
 
 Or run directly:
 ```bash
-# Run algorithm comparison
 python -m experiments.a5_algorithm_bakeoff.run_experiment
-
-# Run feature ablation
-python -m experiments.a3_feature_ablation.run_experiment
-
-# Run lambda parameter sweep
-python -m experiments.a6_lambda_sweep.run_experiment
 ```
 
-Results are saved in `experiments/<experiment_name>/results/` and plots in `experiments/<experiment_name>/plots/`.
+### Generating Plots from Existing Results
+
+You can regenerate plots without re-running experiments. Each experiment has a standalone plotting module that loads results from the `results/` directory:
+
+```bash
+# Generate plots using latest results
+make a2-plot  # Generates: cumulative regret, selection heatmap
+make a3-plot  # Generates: regret boxplot
+make a4-plot  # Generates: hyperparameter performance heatmaps
+make a5-plot  # Generates: Pareto plots, bar plots, regret curves, model timeline
+make a6-plot  # Generates: Pareto subplots, accuracy/energy boxplots
+make a8-plot  # Generates: model selection frequency plot
+
+# Generate plots from specific timestamp
+make a5-plot TS=20250714_130345
+make a6-plot TS=20250714_132438
+
+# Generate all plots
+make run-all-plot
+```
+
+You can also run plotting modules directly:
+```bash
+python -m experiments.a5_algorithm_bakeoff.plotting [timestamp]
+```
+
+### Managing Plots
+
+```bash
+# Clean plots for individual experiments
+make clean-a2-plots
+make clean-a3-plots
+# ... etc
+
+# Clean all plots
+make clean-all-plots
+```
+
+### Results Storage
+
+- Results are saved in `experiments/<experiment_name>/results/` with timestamps
+- Plots are saved in `experiments/<experiment_name>/plots/`
+- Each experiment run creates files with format: `<experiment>_<type>_<YYYYMMDD>_<HHMMSS>.csv`
 
 ## Configuration
 
